@@ -1,3 +1,11 @@
 h1{
     color: aqua;
 }
+p{
+    background-color: beige;
+    color: blueviolet;
+}
+image{
+    width: 30;
+    height: 40;
+}
