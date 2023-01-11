@@ -1,4 +1,29 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+h1{
+    color: aqua;
+}
+.topnav{
+    background-color: #3C6255;
+}
+.topnav a {
+    float: left;
+    color: #EAE7B1;
+    text-align: center;
+    font-size: 40px;                    
+    padding: 14px 16px;
+  }
+  body{
+    display:flex; 
+    flex-direction:column; }
+  footer{ 
+    min-height:50px; 
+    background:PapayaWhip;
+ }
+=======
+>>>>>>> 0f6d66ea2f47da2e6ca9dc2bedb5bc972a8904f7
 .sidebar{
     background: rgb(5, 68, 104);
     position: fixed;
@@ -29,6 +54,7 @@ h1{
     background-color: rgb(223, 222, 202);
     color: blueviolet;
 }
+>>>>>>> cf0de007bdb572aafbdd8057dc53fd843e16e5cc
 
 .scenes{
     width: 400px;
