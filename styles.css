@@ -3,23 +3,23 @@ h1{
 }
 .topnav{
     background-color: #3C6255;
+    text-align: center;
+    margin-left: auto;
+    
 }
 .topnav a {
-    float: left;
     color: #EAE7B1;
     text-align: center;
-    font-size: 40px;                    
+    font-size: 30px;                    
     padding: 14px 16px;
   }
   body{
     display:flex; 
-    flex-direction:column; }
-  footer{ 
-    min-height:50px; 
-    background:PapayaWhip;
- }
+    flex-direction:column; 
+}
+
 .sidebar{
-    background: rgb(5, 68, 104);
+    background: #3C6255;;
     position: fixed;
     top: 0;
     left: 0;
@@ -30,22 +30,56 @@ h1{
 .bar-item{
     margin: 20px;
     display: block;
+    
+}
+.button{
+    color: #EAE7B1;
 }
 a{
     text-decoration: none;
     color: white;
 }
-body{
-    text-align: center;
-    
-}
+
 h1{
-    color: blue;
+    color: black;
 }
 
 .myfooter{
     size: 21px;
-    background-color: rgb(223, 222, 202);
-    color: blueviolet;
+    background-color: #3C6255;
+    color: #EAE7B1;
+    margin-left: 15%;
+    margin-top: 10px;
+    /* margin-bottom: 10px; */
+    text-align: center;
+    
 }
-
+.content{
+    margin-left: 15%;
+}
+.header{
+    text-align: center;
+}
+.logo{
+    align-content: center;
+    margin-left: 40%;
+}
+.nav{
+    margin-left: 15%;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.theader{
+    text-align: center;
+}
+.par{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
